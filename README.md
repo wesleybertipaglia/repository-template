@@ -43,4 +43,10 @@ This repository is licensed under the [MIT]. See the [LICENSE](LICENSE) file for
 
 A big thank you to the open-source community for inspiring and supporting this project.
 
+## 🏆 Top Contributors
+
+<a href="https://github.com/wesleybertipaglia/repository-template/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=wesleybertipaglia/repository-template"/>
+</a>
+
 [Back to top](#repository-template)
