@@ -1,6 +1,6 @@
 # Contributing to the Learning Repository
 
-Thank you for your interest in contributing to the Learning Repository. Your contributions can help make this repository a valuable resource for the community. Whether you want to fix a typo, add new content, or improve existing materials, your help is greatly appreciated.
+Thank you for your interest in contributing to this repository. Your contributions can help make this repository a valuable resource for the community. Whether you want to fix a typo, add new content, or improve existing materials, your help is greatly appreciated.
 
 ## How to Contribute
 
