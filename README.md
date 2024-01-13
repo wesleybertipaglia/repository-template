@@ -8,11 +8,15 @@ This repository provides a collection of files templates for creating well-docum
 
 ### Features:
 
-- ✅ Readme template
+- ✅ Readme Template
 - ✅ License Template
 - ✅ Contribuiting Template
 - ✅ Issues Templates
 - ✅ Sponsor Template
+- ✅ Changelog Template
+- ✅ Code of Conduct Template
+- ✅ Security Files Template
+- ✅ Git Ignore Template
 - ✅ SEO-friendly
 
 ## 🤖 Getting Started
